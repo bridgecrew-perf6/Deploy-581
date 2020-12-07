@@ -27,5 +27,6 @@
         - 커밋 메시지 작성
         - 커밋
             - 에러 : user.name, user.email in git...
-            - 조치 : $ git config --global user.name "본인이름"
-                     $ git config --global user.email "이메일"
+        - 공통 처리 : 
+            $ git config --global user.name "본인이름"
+            $ git config --global user.email "이메일"
