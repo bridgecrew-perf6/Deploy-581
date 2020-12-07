@@ -24,3 +24,8 @@
     - 저장소에서 카피
         - $ git clone https://github.com/dch9610/Deploy.git
     - 이미 작성된 내용을 카피해서 만들어진 폴더 deploy 안으로 붙여놓는다.
+        - 커밋 메시지 작성
+        - 커밋
+            - 에러 : user.name, user.email in git...
+            - 조치 : $ git config --global user.name "본인이름"
+                     $ git config --global user.email "이메일"
