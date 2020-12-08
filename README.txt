@@ -30,3 +30,10 @@
         - 공통 처리 : 
             $ git config --global user.name "본인이름"
             $ git config --global user.email "이메일"
+
+- git 업로드한후 key 경로 설정를 한다. 
+    - 해당 디렉터리에서 fab_server를 입력
+    - REMOTE_HOST copy후 도메인 창에 입력 
+        - Internal Server Error가 나올경우 
+            - putty를 통해 접속해 cd /var/log로 이동하고 apache2 폴더로 들어간다
+            - cat error.log로 에러확인
