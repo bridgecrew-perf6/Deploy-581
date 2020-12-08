@@ -9,7 +9,7 @@
     L deploy.json      : 페브릭이 배포작업을 하는데 필요한 상수값들을 저장한 파일이다
                         - 환경변수가 저장된 파일
 
-# fabric 설치
+# fabric3 설치
 - pip(or conda) install fabric                        
     => python 2.7.xx 버전에 맞게 설치가 된다
     => python 3.x 버전은 사용불가
